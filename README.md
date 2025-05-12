@@ -16,8 +16,7 @@ A classic game of Rock Paper Scissors where the user plays against the computer.
   - Randomized computer choice
   - Score tracking and win/loss/draw detection
 
-🔗 [View Project](#) 
-📂 [`/rock-paper-scissors`](./Rock Paper Scissors)
+🔗 [View Project](https://rock-paper-scissors-priyanshu-rathi.netlify.app/) 
 
 ---
 
@@ -30,8 +29,7 @@ A simple yet elegant implementation of the Tic Tac Toe game playable in the brow
   - Win detection and game reset
   - Responsive layout
 
-🔗 [View Project](#) 
-📂 [`/tic-tac-toe`](./Tic Tac Toe)
+🔗 [View Project](https://tic-tac-toe-priyanshu-rathi.netlify.app/) 
 
 ---
 
@@ -44,16 +42,17 @@ A real-time currency converter using external APIs for exchange rates and countr
   - Country flag selection using Flag API
   - User-friendly dropdowns and input fields
 
-🔗 [View Project](#) 
-📂 [`/currency-converter`](./Currency Converter)
+🔗 [View Project](https://currency-converter-priyanshu-rathi.netlify.app/) 
 
 ---
 
 ## 📁 Repository Structure
 
+├── currency-converter/
+
 ├── rock-paper-scissors/
-├── tic-tac-toe/
-└── currency-converter/
+
+└── tic-tac-toe/
 
 
 Each folder contains the source code (HTML, CSS, JS) and related assets for the respective project.
