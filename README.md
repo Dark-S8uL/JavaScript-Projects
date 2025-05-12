@@ -48,9 +48,11 @@ A real-time currency converter using external APIs for exchange rates and countr
 
 ## 📁 Repository Structure
 
+├── currency-converter/
+
 ├── rock-paper-scissors/
-├── tic-tac-toe/
-└── currency-converter/
+
+└── tic-tac-toe/
 
 
 Each folder contains the source code (HTML, CSS, JS) and related assets for the respective project.
