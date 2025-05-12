@@ -17,7 +17,6 @@ A classic game of Rock Paper Scissors where the user plays against the computer.
   - Score tracking and win/loss/draw detection
 
 🔗 [View Project](#) 
-📂 [`/rock-paper-scissors`](./Rock Paper Scissors)
 
 ---
 
@@ -31,7 +30,6 @@ A simple yet elegant implementation of the Tic Tac Toe game playable in the brow
   - Responsive layout
 
 🔗 [View Project](#) 
-📂 [`/tic-tac-toe`](./Tic Tac Toe)
 
 ---
 
@@ -45,7 +43,6 @@ A real-time currency converter using external APIs for exchange rates and countr
   - User-friendly dropdowns and input fields
 
 🔗 [View Project](#) 
-📂 [`/currency-converter`](./Currency Converter)
 
 ---
 
